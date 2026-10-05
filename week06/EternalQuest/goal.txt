@@ -1,0 +1,3 @@
+0
+EternalGoal:asd,asd,23
+SimpleGoal:asd,asd,123,False
